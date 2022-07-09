@@ -1,0 +1,19 @@
+*{
+    color: red;
+}
+
+p{
+    color:blue;
+}
+
+#study{
+    color: gray;
+}
+
+.green{
+    color: green;
+}
+
+h2.green{
+    color:pink;
+}
