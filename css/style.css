@@ -1,19 +1,8 @@
-*{
-    color: red;
-}
+#css{
+   color:#ccc ;
+   /* background-color: red; */
+   /* font-size: 5px; */
+   /* text-align: right; */
+   font-weight: bold;
+    }
 
-p{
-    color:blue;
-}
-
-#study{
-    color: gray;
-}
-
-.green{
-    color: green;
-}
-
-h2.green{
-    color:pink;
-}
